@@ -3,9 +3,9 @@
 **step 1：compile**
 
 ```shell
-git clone git@github.com:MOEA-LAB/Swarm-Control-Course-Additional-Work.git
+git clone https://github.com/Dwl2021/Swarm-Control-Course-Additional-Work.git
 cd Swarm-Control-Course-Additional-Work
-catkin_make
+catkin build
 ```
 
 **step2: setup rviz**
